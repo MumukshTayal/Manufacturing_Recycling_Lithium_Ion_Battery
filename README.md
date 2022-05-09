@@ -1,4 +1,4 @@
-# Manufacturing_Recycling_Lithium_Ion_Battery
+# Manufacturing and Recycling of Lithium Ion Batteries
 
 ## Course Project for CL 201 [Chemical Processes Calculations]
 
